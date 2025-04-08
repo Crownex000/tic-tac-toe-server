@@ -7,7 +7,7 @@
       "dest": "src/index.js",
       "methods": ["GET", "POST", "PUT", "DELETE", "PATCH", "OPTIONS"],
       "headers": {
-        "Access-Control-Allow-Origin": "https://tic-tac-toe-app-beige.vercel.app/"
+        "Access-Control-Allow-Origin": "https://tic-tac-toe-bw9t0eprd-jefferson-gutierrezs-projects.vercel.app/"
       }
     }
   ]
